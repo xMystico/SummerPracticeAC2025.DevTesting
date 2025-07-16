@@ -63,7 +63,5 @@
             // Assert
             Assert.Equal(2, result);
         }
-
-
     }
 }
